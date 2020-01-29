@@ -1,0 +1,9 @@
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\bin\Debug\CalculoEntreFechas.exe.config
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\bin\Debug\CalculoEntreFechas.exe
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\bin\Debug\CalculoEntreFechas.pdb
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\obj\Debug\CalculoEntreFechas.csprojAssemblyReference.cache
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\obj\Debug\CalculoEntreFechas.Form1.resources
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\obj\Debug\CalculoEntreFechas.Properties.Resources.resources
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\obj\Debug\CalculoEntreFechas.csproj.GenerateResource.cache
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\obj\Debug\CalculoEntreFechas.exe
+D:\usuarios\alumno\escritorio\CalculoEntreFechas\CalculoEntreFechas\CalculoEntreFechas\obj\Debug\CalculoEntreFechas.pdb
